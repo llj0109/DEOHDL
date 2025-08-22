@@ -1,0 +1,11 @@
+carrot
+Chinese_cabbage
+eggplant
+pepper
+potato
+tomato
+duck
+fish
+beef
+chicken
+pork
